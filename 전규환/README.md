@@ -53,31 +53,16 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)  
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-  ##### 만들게 된 이유: 프로그램으로 시간을 최적화하며 암기할수 있는 방법을 모색함
-  ##### 프로그램 이름:  알파벳 첫단어인 A를 첫프로젝트에 기념하여 Armadillo라는 이름을 지었습니다.
-  ##### 프로그램 기능:  암기 보조(학습카드 형식을 프로그램으로 구현)+ 알람 +웹에서 엑세스
+  ##### 만들게 된 이유: 프로그램으로 암기할수 있는 방법을 모색함
+  ##### 프로그램 이름:  Armadillo
+  ##### 프로그램 기능:  웹 암기 보조 프로그램
   ##### 목표 완료일:  10월13일 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyu-hwan&repo=project-Armadillo)](https://github.com/gyu-hwan/project-Armadillo)
   ## 3-1 FlowChart(간략한)  
   ### 이미지 클릭하여 전체보기 가능
   ![Armadillo_FlowChart[Armadillo_FlowChart]](https://github.com/gyu-hwan/project-Armadillo/blob/main/Armadillo_FlowChart.jpg?raw=true)
-  ## 3-2 현재 진행 완료사항  
-  ##### 10월  
-  ###### Debian계열  linux  서버  구축
-  ###### Ngnix  Domain  SSL tomcat 설정
-  ###### [웹페이지](https://ilteon.page/) 구축
-  ###### SQL 네트워크 설정,my sql 기초 공부 (25일)
-  ###### 서버내 mariaDB 와 MySqlWorkBenchCE 의 연결 에러 수정 (26일)
-  ###### 간략한 Armadillo_FlowChart 제작 및 테이블 데이터값 구상
-
-  ## 3-3 작업 예정
-   ##### 목표 완료일:  11월13일 
-  ##### 현재 jsp,spring,react,mysql을 쓰기위해 공부중
