@@ -9,8 +9,7 @@
 ### * 프로젝트 목록
   * 1.[팀 프로젝트-로또 당첨 예측 프로그램](##-팀-프로젝트-로또-당첨-예측-프로그램)
   * 2.[팀 프로젝트-ORACLE JAVA연동 프로그램](##-팀-프로젝트-ORACLE-JAVA연동-프로그램)
-  * 3.[(진행중)개인 프로젝트-Armadillo]()
-  * 4.[(예정(8~12일))팀 프로젝트-A조 웹 팀프로젝트]()
+  * 3.[팀 프로젝트-A조 웹 팀프로젝트]()
 <br><br><br>
 # 1.[팀 프로젝트-로또 당첨 예측 프로그램](#-전규환의-프로그래밍-포폴-입니다.)  (21.8.23~21.8.25)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
@@ -46,28 +45,8 @@
     
   [PPT 보기](https://github.com/gyu-hwan/turo/blob/main/temp/JAVA%201%ED%8C%80%20%EC%A4%91%EA%B3%A0%EC%B0%A8%EA%B2%80%EC%83%89.pdf)
 
-# 3.[(진행중)개인 프로젝트-Armadillo](#-전규환의-프로그래밍-포폴-입니다.) (21.10.25~현재진행중)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
-  ##### 만들게 된 이유: 프로그램으로 암기할수 있는 방법을 모색함
-  ##### 프로그램 이름:  Armadillo
-  ##### 프로그램 기능:  웹 암기 보조 프로그램
-  ##### 목표 완료일:  10월13일 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gyu-hwan&repo=project-Armadillo)](https://github.com/gyu-hwan/project-Armadillo)
-  ## 3-1 FlowChart  
-  ### 이미지 클릭하여 전체보기 가능
-  ![Armadillo_FlowChart[Armadillo_FlowChart]](https://github.com/gyu-hwan/project-Armadillo/blob/main/Armadillo_FlowChart.jpg?raw=true)
-
-# 4.[(예정(8~12일))팀 프로젝트-A조 웹 팀프로젝트](#-전규환의-프로그래밍-포폴-입니다.)
+# 3.[팀 프로젝트-A조 웹 팀프로젝트](#-전규환의-프로그래밍-포폴-입니다.)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -80,22 +59,4 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-
-## 4-1이번 프로젝트 목표 
-##### 취직시 포폴로 제출될 메인 퀄리티용 팀 프로젝트
-## 4-2웹 프로젝트 기능
-###### 웹 사이트,로그인,게시판,알림 
-## 4-3웹 사이트 주소
-###### 현재 미정
-## 4-4팀프로젝트 개발 툴
-###### os : ubuntu
-###### DB : MySql
-###### WAS : Tomcat9
-## 4-5역할분담
-###### ppt: 구글 슬라이스에서 공동제작
-###### 메인페이지 프론트엔드
-###### 
-###### DB 관리자 1명
-###### DB생성 관리
-# 4-6팀 프로젝트 예정
-## 추가예정
+[웹 사이트](https://gyuhwan.com)
