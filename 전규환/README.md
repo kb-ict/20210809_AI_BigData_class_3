@@ -15,7 +15,7 @@
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   
   
- ##### c언어기초를 몇주간 배운후  과제로  A팀 5명이 2일간 제작하였습니다.
+ ##### c언어기초를 몇주간 배운후  과제로  전규환 백지윤 송성수 신봉규 윤영준 이 2일간 제작하였습니다.
   
  ##### 4명이 로또번호를 예측하는 알고리즘을 담당 하였고  
  ##### 1명이 winAPI를 이용해 프론트엔드 기능을 담당하였습니다.  
