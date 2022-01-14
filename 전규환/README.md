@@ -32,8 +32,7 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   ##### 해당 프로젝트의 목표는  
   ##### ORACLE과 자바를 MVC패턴으로 제어하는 프로그램을  
-  ##### 팀원과 역할분담을 효율적으로 하는것을 경험하는것으로 목표을 맞추었으므로  
-  ##### 이번 팀프로젝트에서 gui와 크롤링등 기타 기능들은 있으면 좋지만 목표와 관계없다고 판단해서 쓰지 않았습니다.  
+  ##### 팀원과 역할분담을 효율적으로 하는것을 경험하는것으로 목표로 진행하였습니다.
   . 
   
   ![실행결과(콘솔실행결과)](https://github.com/gyu-hwan/turo/blob/main/temp/%ED%8C%80%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ORACLE%20JAVA%EC%97%B0%EB%8F%99%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC.jpg?raw=true)  
